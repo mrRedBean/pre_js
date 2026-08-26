@@ -1,0 +1,40 @@
+.button{
+    padding: 10px 20px;
+   display: flex;
+   flex-direction: column;
+
+}
+
+.new {
+    background: red;
+    color: #fff;
+}
+
+.delete {
+    background: blue;
+    color: #fff;
+}
+
+.back {
+    background: green;
+    color: #fff;
+}
+
+.button2{
+    padding: 10px 20px;
+   display: flex;
+   flex-direction: column;
+}
+
+.double {
+    background: black;
+    color: #fff;
+}
+.notDouble {
+    background: yellow;
+    color: #fff;
+}
+.not {
+    background: #fff;
+    color: black;
+}
